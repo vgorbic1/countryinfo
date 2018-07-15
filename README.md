@@ -1,6 +1,6 @@
 ## Country Info
 
-This application was build as a test assignment for [InfoSec Institute](https://www.infosecinstitute.com/). The project includes a front end application and back end API. Back end API utilizes resources from [RESTCountries](http://restcountries.eu/) project. The resources are customized and displayed with the front end application.
+This application was build by request from [InfoSec Institute](https://www.infosecinstitute.com/). The project includes a front end application and back end API. Back end API utilizes resources from [RESTCountries](http://restcountries.eu/) project. The resources are customized and displayed with the front end application.
 
 This is a link to a working demo at [countryinfo.gorbich.com](https://countryinfo.gorbich.com/)
 
